@@ -1,0 +1,26 @@
+* {
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aqua;
+}
+
+.Text {
+  font-size: 18px;
+  font-family: sans-serif;
+  color: red;
+}
+
+.container {
+  display: block;
+  background-color: lightgoldenrodyellow;
+}
+
+.Item {
+  font-size: 19px;
+  font-family: sans-serif;
+  color: lightsalmon;
+}
